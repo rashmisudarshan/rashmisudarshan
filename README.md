@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rashmi, a MERN Stack developer, Cyber Security enthusiast, and a Master's Student at Penn State. (I also dabble in data mining and visualization so check out my projects!)
+## Hi there 👋 I'm Rashmi, an Appian developer, a MERN Stack developer, a Cyber Security enthusiast, and a Master's Student at Penn State. (I also dabble in data mining and visualization so check out my projects!)
 
 <!--
 **rashmisudarshan/rashmisudarshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
