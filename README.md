@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![An image of @rashmi_sudarshan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rashmi_sudarshan)](https://holopin.io/@rashmi_sudarshan)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bootstrap,cpp,django,docker,eclipse,express,figma,firebase,jest,mongodb,mysql,nodejs,postgres,py,react,tailwind,ubuntu)](https://skillicons.dev)
